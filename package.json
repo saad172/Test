@@ -1,0 +1,19 @@
+{
+  "name": "socialmediaproject",
+  "version": "1.0.0",
+  "description": "Penis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Verdaxxed, MrSingh, Dunkin45 (Kinda)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "mssql": "^10.0.1",
+    "mysql": "^2.18.1"
+  }
+}
